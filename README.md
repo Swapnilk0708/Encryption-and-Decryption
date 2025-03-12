@@ -26,14 +26,14 @@ This Python project integrates Caesar Cipher and Image Steganography for secure 
 
 # Working of the Project
 
-#1. User Interface (GUI) Initialization
+# 1. User Interface (GUI) Initialization
    
   . The project starts with a Graphical User Interface (GUI) built using Tkinter.
   . The user is given two options:
  1. Text Encryption & Decryption (Caesar Cipher)
  2. Image-based Steganography
 
-#2. Caesar Cipher (Text Encryption & Decryption)
+# 2. Caesar Cipher (Text Encryption & Decryption)
    
  Encryption Process:
   . The user inputs a text message.
